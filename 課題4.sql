@@ -61,3 +61,5 @@ COMMIT;
 
 -- COMMIT後にデータが残っていることを確認
 SELECT * FROM Orders;
+
+--コメントを追加
